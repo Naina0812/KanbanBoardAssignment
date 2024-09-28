@@ -1,0 +1,49 @@
+/* UserdetailsCard2.css */
+
+.container {
+    background-color: #f4f5f9;
+    padding: 20px;
+  }
+  
+  .userdet {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 12px;
+    margin-top: 10px;
+    margin-bottom: -4px;
+  }
+  
+  .userdet__info {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+  }
+  
+  .userdet__img {
+    margin-right: 15px;
+    margin-bottom: -7px;
+    margin-left: -10px;
+  }
+  
+  .userdet__name {
+    margin-left: -10px;
+    font-weight: 600;
+  }
+  
+  .userdet__count {
+    margin-left: 12px;
+    color: #938f8f;
+    font-size: 300;
+  }
+  
+  .userdet__icons {
+    margin-top: 20px;
+    margin-right: 4%;
+  }
+  
+  .ticket-column {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
